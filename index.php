@@ -56,7 +56,7 @@ session_start();
 
             <div class="botoes">
               <button type="submit">Enter</button>
-              <a href="#">Register</a>
+              <a href="#"> Register </a>
             </div>
           </form>
         </div>
@@ -95,7 +95,7 @@ session_start();
             </div>
 
             <div class="botoes">
-              <a href="#">To go back</a>
+              <a href="#"> To go back </a>
               <button type="submit">Register</button>
             </div>
           </form>
