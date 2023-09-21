@@ -55,7 +55,7 @@ session_start();
             </div>
 
             <div class="botoes">
-              <button type="submit">Enter</button>
+              <button type="submit">Ent er</button>
               <a href="#"> Register </a>
             </div>
           </form>
