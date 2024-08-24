@@ -67,17 +67,6 @@ O layout do sistema é responsivo e foi inspirado em um shot do Dribble. Você p
 ![](./.github/desktop-dashboard-finished.png)
 <br>
 
-### 📱 Mobile
-#### Página de login
-![](./.github/mobile-sign-in.png)
-
-#### Página de cadastro
-![](./.github/mobile-sign-up.png)
-
-#### Dashboard
-![](./.github/mobile-dashboard.png)
-
-
 ---
 <p align="center">
 Feito com 💙 <a href="https://www.linkedin.com/in/vilsonsampaio/">Vilson Sampaio</a>
